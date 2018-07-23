@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/kalku/Downloads/assimp-master/assimp-master/contrib/irrXML/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/kalku/Documents/ShadersCode/AssimpBuild/contrib/irrXML/CMakeFiles/generate.stamp is up-to-date.
+  irrXML.cpp
+  IrrXML.vcxproj -> C:\Users\kalku\Documents\ShadersCode\AssimpBuild\contrib\irrXML\Debug\IrrXML.lib

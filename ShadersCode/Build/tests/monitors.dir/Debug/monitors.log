@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/kalku/Downloads/glfw-3.2.1 (3)/glfw-3.2.1/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/kalku/Documents/ShadersCode/Build/tests/CMakeFiles/generate.stamp is up-to-date.
+  monitors.c
+  getopt.c
+  glad.c
+  Generating Code...
+  monitors.vcxproj -> C:\Users\kalku\Documents\ShadersCode\Build\tests\Debug\monitors.exe

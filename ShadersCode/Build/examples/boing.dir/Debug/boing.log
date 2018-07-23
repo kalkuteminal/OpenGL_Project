@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/kalku/Downloads/glfw-3.2.1 (3)/glfw-3.2.1/examples/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/kalku/Documents/ShadersCode/Build/examples/CMakeFiles/generate.stamp is up-to-date.
+  boing.c
+  glad.c
+  Generating Code...
+  boing.vcxproj -> C:\Users\kalku\Documents\ShadersCode\Build\examples\Debug\boing.exe

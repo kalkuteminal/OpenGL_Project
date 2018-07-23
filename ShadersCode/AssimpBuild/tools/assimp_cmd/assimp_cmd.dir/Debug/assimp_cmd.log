@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/kalku/Downloads/assimp-master/assimp-master/tools/assimp_cmd/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/kalku/Documents/ShadersCode/AssimpBuild/tools/assimp_cmd/CMakeFiles/generate.stamp is up-to-date.
+  CompareDump.cpp
+  ImageExtractor.cpp
+  Main.cpp
+  WriteDumb.cpp
+  Info.cpp
+  Export.cpp
+  assimp_cmd.vcxproj -> C:\Users\kalku\Documents\ShadersCode\AssimpBuild\tools\assimp_cmd\Debug\assimp.exe

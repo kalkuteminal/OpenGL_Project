@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/kalku/Downloads/assimp-master/assimp-master/code/CMakeLists.txt
+C:/Users/kalku/Downloads/assimp-master/assimp-master/cmake-modules/FindRT.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kalku\Downloads\assimp-master\assimp-master\test\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\kalku\Documents\ShadersCode\AssimpBuild\CMakeFiles\63dbafc3d4810362ff78d6da5a90423e\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kalku\Documents\ShadersCode\AssimpBuild\test\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5D7702D5-C415-3942-BADD-FC674791B997}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

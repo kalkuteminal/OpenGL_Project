@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kalku\Documents\ShadersCode\AssimpBuild\CMakeFiles\cff744489be1a4e276be9db988130f9f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5D7702D5-C415-3942-BADD-FC674791B997}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

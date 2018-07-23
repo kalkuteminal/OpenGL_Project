@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Mainer.cpp" />
+    <ClCompile Include="MeGlWindow.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="MeWidget.cpp" />
+    <ClCompile Include="GuiComponents\DebugSlider.cpp" />
+    <ClCompile Include="GuiComponents\DebugSlider_moc.cpp" />
+    <ClCompile Include="MeWidget_moc.cpp" />
+    <ClCompile Include="Primitives\ShapeGenerator.cpp">
+      <Filter>Primitives</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MeGlWindow.h" />
+    <ClInclude Include="FragmentShaderCode.glsl" />
+    <ClInclude Include="Primitives\Vertex.h" />
+    <ClInclude Include="Primitives\ShapeData.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Primitives\TeapotData.h" />
+    <ClInclude Include="MeWidget.h" />
+    <ClInclude Include="GuiComponents\DebugSlider.h" />
+    <ClInclude Include="MyModel.h" />
+    <ClInclude Include="Primitives\ShapeGenerator.h">
+      <Filter>Primitives</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VertexShaderCode.glsl" />
+    <None Include="VertexShaderPassThroughCode.glsl" />
+    <None Include="FragmentShaderPassThroughCode.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="plane.png" />
+    <Image Include="plane_puraana.png" />
+    <Image Include="Shapes.png" />
+    <Image Include="square.png" />
+    <Image Include="hexagon.png" />
+    <Image Include="Diamond.png" />
+    <Image Include="pikachu.png" />
+    <Image Include="..\..\..\..\..\Desktop\skybox.png" />
+    <Image Include="..\..\..\..\..\Desktop\New folder (2)\stonewall.png" />
+    <Image Include="..\..\..\..\..\Desktop\New folder (2)\stonewallNorm.png" />
+    <Image Include="..\..\..\..\..\Desktop\New folder (2)\artstone.png" />
+    <Image Include="..\..\..\..\..\Desktop\New folder (2)\steel.png" />
+    <Image Include="negativex.png" />
+    <Image Include="negativey.png" />
+    <Image Include="negativez.png" />
+    <Image Include="positivex.png" />
+    <Image Include="positivey.png" />
+    <Image Include="positivez.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Primitives">
+      <UniqueIdentifier>{706400da-428e-44a8-a9a0-e1130f9f41cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
